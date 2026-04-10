@@ -1,12 +1,6 @@
-
-rdx
-rdxx
-rdxxx
-rdxxxx
-rdxxxxx
-rdxxxxxx
 git init
 git status
+git remote add origin //https.........
 git add filename.txt
 git rm filename.txt
 git remote -v
