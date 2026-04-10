@@ -9,8 +9,9 @@ git init
 git status
 git add filename.txt
 git rm filename.txt
+git remote -v
 git push origin main 
-git push origin main
+git restore filename.txt
 clear
 git add .
 git commit -m "added testing files"
