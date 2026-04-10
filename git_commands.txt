@@ -1,6 +1,11 @@
+
 rdx
 rdxx
 rdxxx
 rdxxxx
 rdxxxxx
 rdxxxxxx
+git status 
+clear
+git add .
+git commit -m "added testing files"
